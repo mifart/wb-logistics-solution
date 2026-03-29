@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-lightgbm
-catboost
 pandas
 numpy
+lightgbm
