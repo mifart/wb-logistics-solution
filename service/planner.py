@@ -1,3 +1,2 @@
 def plan_transport(v):
-          if v <= 0: return []
-                    return [{"capacity": 100, "count": 1}]
+              return [{"capacity": 100, "count": 1}] if v > 0 else []
